@@ -6,7 +6,7 @@ An automated AI safety testing framework that attacks LLM applications across si
 
 ## What It Does
 
-Point it at any LLM application — a Claude model, an OpenAI model, or any HTTP endpoint — and it fires a curated battery of adversarial probes, scores each response (heuristically or via an LLM judge), and produces a full report with per-category breakdowns and severity ratings.
+Point it at any LLM application a Claude model, an OpenAI model, or any HTTP endpoint — and it fires a curated battery of adversarial probes, scores each response (heuristically or via an LLM judge), and produces a full report with per-category breakdowns and severity ratings.
 
 **Attack categories:**
 
